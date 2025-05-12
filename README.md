@@ -1,7 +1,7 @@
 # Supply-Chain-Optimizer
 ---
 ## Supply Chain Expert System: Mathematical and Computational Optimization
----
+
 ## 1. Demand Forecasting
 
 ### Mathematical Model
